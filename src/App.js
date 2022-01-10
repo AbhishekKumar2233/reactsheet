@@ -9,7 +9,7 @@ export default function App() {
       <h1>
         My Favourite {Ctype} {type}
       </h1>
-      <h1>My Favourite {`${Ctype} ${type}`}</h1>
+      {/* <h1>My Favourite {`${Ctype} ${type}`}</h1> */}
       {/*Es6 */}
       <ul>
         <li>Indian</li>
